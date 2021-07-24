@@ -1,6 +1,8 @@
 # houdini-dashed-borders
 Custom dashed borders using CSS Houdini
 
+![image](https://user-images.githubusercontent.com/28251020/126876258-297e1555-9b62-42eb-99bb-8327c31a54dc.png)
+
 Read the usage and development guide [here](https://bytebabbles.blogspot.com/2021/07/making-custom-dashed-borders-with-css.html)
 
 Usage:
